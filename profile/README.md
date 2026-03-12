@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://vox.rocks/public/vox.rocks/assets/images/opengraph/osx_opengraph.png" alt="VOX screenshot"/>
+  <img src="https://i.ytimg.com/vi/hGRf_gb4Ve4/maxresdefault.jpg" alt="VOX screenshot"/>
 </p>
 
 ---
